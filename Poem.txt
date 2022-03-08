@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and the Unicorn.
 
 1. Violet
 2. Indigo
@@ -7,5 +7,7 @@ The Rainbow
 5. Yellow
 6. Orange
 7. Red
+8. Unicorn
 
 These are the colors of my rainbow.
+And the Unicorn.
